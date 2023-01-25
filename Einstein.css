@@ -1,0 +1,3 @@
+#image{max-width:100%; height:auto;}
+img,figcaption{display:block;}
+img{margin:1em auto;}
